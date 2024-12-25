@@ -6,6 +6,7 @@ The objective of the project is to efficiently manage student data, instructor a
 
 The goal is to streamline student records, analyze enrollment trends, and perform operations such as adding or updating student information, assigning grades, and tracking course enrollments.
 Tool Used: MySQL for database creation, management, and querying.
+
 ✤ Tables Used: Students: Stores student information like name, gender, age, etc. Instructors: Stores information about instructors. Courses: Stores course details along with the associated instructor. Enrollments: Tracks the enrollments of students in various courses. Grades: Stores the grades of students for their respective courses.
 Tool Used: MySQL for database creation, management, and querying.
 
